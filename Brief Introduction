@@ -1,0 +1,13 @@
+**What are AI coding assistants?**
+AI coding assistants are smart software tools that use large language models to help people write, fix, and understand computer code. 
+They work inside text editors or terminal windows to provide real-time suggestions, complete full lines of code, and turn plain text instructions into working scripts
+
+**Core FeaturesCode Completion:**
+Predicts and writes the next lines of code as you type.
+Natural Language Translation: Turns normal written sentences into functional code blocks.
+Debugging & Refactoring: Finds errors, fixes bugs, and cleans up old code.
+Explanation: Breaks down hard-to-understand code or project setups into simple terms.
+
+**Common Types:**
+Editor Extensions: Tools built right into your workspace like GitHub Copilot or Cursor that help with local context and chat.
+Terminal & Agentic Tools: Advanced systems like Claude Code that can read whole project folders, run commands, and edit multiple files at once.
