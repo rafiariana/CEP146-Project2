@@ -25,7 +25,10 @@ The purpose of this project is to investigate how AI-powered coding assistants a
 - Discuss the future of AI in software engineering.
 
 ---
+Discussion question:
 
+**"As AI coding assistants become more powerful, should future software developers focus less on writing code and more on designing, reviewing, and managing AI-generated solutions?"**
+---
 ## 👥 Team Members
 
 | Name |
