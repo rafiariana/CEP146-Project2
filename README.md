@@ -37,6 +37,15 @@ Discussion question:
 | Gulpari Alandarova |
 | Rafia Riana |
 
+## Team Responsibilities
+
+The project responsibilities were divided among team members to ensure effective collaboration and balanced contributions.
+
+Research, Documentation, and Presentation Team:
+Shima Vosoogh and Gulpari Alandarova collaborated on project research, repository management through GitHub, preparation of the project presentation, and creation of the project video.
+AI Implementation (Part 2):
+Rafia Riana is responsible for the second part of the project, which focuses on integrating and working with AI-related components.
+
 ---
 
 ## 📚 References
