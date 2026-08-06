@@ -1,5 +1,3 @@
-
-````markdown
 # 🤖 How AI Coding Assistants Are Changing Software Development
 
 ## 📖 Overview
@@ -25,10 +23,23 @@ The purpose of this project is to investigate how AI-powered coding assistants a
 - Discuss the future of AI in software engineering.
 
 ---
+
+## 🎥 Video Presentation
+
+Our group presentation is available on YouTube:
+
+[Watch: How AI Coding Assistants Are Changing Software Development](https://youtu.be/kdiZVE57TF0)
+
+> **Note:** The YouTube video is set to public so that it can be accessed for grading.
+
+---
+
 Discussion question:
 
 **"As AI coding assistants become more powerful, should future software developers focus less on writing code and more on designing, reviewing, and managing AI-generated solutions?"**
+
 ---
+
 ## 👥 Team Members
 
 | Name |
@@ -36,15 +47,6 @@ Discussion question:
 | Shima Vosoogh |
 | Gulpari Alandarova |
 | Rafia Riana |
-
-## Team Responsibilities
-
-The project responsibilities were divided among team members to ensure effective collaboration and balanced contributions.
-
-Research, Documentation, and Presentation Team:
-Shima Vosoogh and Gulpari Alandarova collaborated on project research, repository management through GitHub, preparation of the project presentation, and creation of the project video.
-AI Implementation (Part 2):
-Rafia Riana is responsible for the second part of the project, which focuses on integrating and working with AI-related components.
 
 ---
 
@@ -57,4 +59,3 @@ All research papers, articles, books, and other sources used throughout the proj
 ## 📄 License
 
 This repository is intended for **educational purposes** as part of a university group research project.
-````
