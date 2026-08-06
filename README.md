@@ -25,10 +25,23 @@ The purpose of this project is to investigate how AI-powered coding assistants a
 - Discuss the future of AI in software engineering.
 
 ---
+
+## 🎥 Video Presentation
+
+Our group presentation is available on YouTube:
+
+[Watch: How AI Coding Assistants Are Changing Software Development](https://youtu.be/kdiZVE57TF0)
+
+> **Note:** The YouTube video is set to public so that it can be accessed for grading.
+
+---
+
 Discussion question:
 
 **"As AI coding assistants become more powerful, should future software developers focus less on writing code and more on designing, reviewing, and managing AI-generated solutions?"**
+
 ---
+
 ## 👥 Team Members
 
 | Name |
