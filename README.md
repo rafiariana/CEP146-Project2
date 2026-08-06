@@ -50,12 +50,6 @@ Discussion question:
 
 ---
 
-## 📚 References
-
-All research papers, articles, books, and other sources used throughout the project will be documented.
-
----
-
 ## 📄 License
 
 This repository is intended for **educational purposes** as part of a university group research project.
